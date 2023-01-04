@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "optional": "cpp",
+        "functional": "cpp",
+        "iosfwd": "cpp",
+        "stdexcept": "cpp"
+    }
+}
